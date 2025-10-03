@@ -37,6 +37,11 @@ InfraMCP maintains a family of specialized MCP servers for different infrastruct
 - **Purpose:** Foreman API integration for host inventory, discovery, and infrastructure queries.
 - **Features:** Host search, organization/location/hostgroup management, secure API access.
 
+### 🟦 phpIPAM MCP Server
+- **Repo:** [phpipam-mcp-server](https://github.com/InfraMCP/phpipam-mcp-server)
+- **Purpose:** IP address management and network infrastructure automation via phpIPAM API.
+- **Features:** CRUD operations, subnet/VLAN/VRF management, address search, context optimization.
+
 ---
 
 ## Organization-wide Standards
