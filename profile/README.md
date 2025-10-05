@@ -1,6 +1,6 @@
 # InfraMCP Organization
 
-Welcome to **InfraMCP**, a curated collection of open-source Model Context Protocol (MCP) servers that enable secure, AI-driven management and automation across your entire infrastructure stack. Our projects provide seamless integration with leading platforms, empowering AI agents, developers, and automation tools to interact with complex environments using a unified protocol.
+Welcome to **InfraMCP**, a collection of open-source Model Context Protocol (MCP) servers that enable secure, AI-driven management and automation across your entire infrastructure stack. Our projects provide seamless integration with leading platforms, empowering AI agents, developers, and automation tools to interact with complex environments using a unified protocol.
 
 ## What is Model Context Protocol (MCP)?
 
@@ -81,15 +81,6 @@ All InfraMCP projects adhere to the following standards:
 
 We take supply chain, credential, and data security seriously.
 - Each repo has a dedicated `SECURITY.md` with detailed policies.
-- Please report vulnerabilities directly to **rory.mcmahon@vocus.com.au** (not via GitHub issues).
-
----
-
-## Organization Contacts
-
-| Maintainer        | Contact                          |
-|-------------------|----------------------------------|
-| Rory McMahon      | rory.mcmahon@vocus.com.au        |
 
 ---
 
